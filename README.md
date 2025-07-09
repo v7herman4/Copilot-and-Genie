@@ -33,3 +33,10 @@ Note the following items from the Genie API setup as they’ll be required for t
 5. Publish All Customizations.
 6. Open the Agent in Copilot Studio
 7. Publish the Agent
+
+## Collaborators
+Many people contributed to this solution! A big thanks to the team for their efforts.
+Melissa Lacefield / [@melilace](https://github.com/melilace)
+Josh Hays
+Johnny Harbieh
+Valter Herman / [@v7herman4](https://github.com/v7herman4)
