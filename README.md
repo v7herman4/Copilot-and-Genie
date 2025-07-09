@@ -26,9 +26,10 @@ Note the following items from the Genie API setup as they’ll be required for t
 
 ## Import the solution into a Power Platform Environment
 
-1. Import the unmanaged solution: F1RacingAgentGenieDatabricks_N_N_N_N.zip
-2. Ensure all connection references are validated and created.
-3. Set the Environment Variables from the Genie API
-4. Publish All Customizations.
-5. Open the Agent in Copilot Studio
-6. Publish the Agent
+1. Import the latest unmanaged solution from the [releases](https://github.com/v7herman4/Copilot-and-Genie/releases): F1RacingAgentGenieDatabricks_N_N_N_N.zip
+2. Download the installation guide as well from the releases: F1 Racing Agent Genie Databricks Installation Guide.docx
+3. Ensure all connection references are validated and created.
+4. Set the Environment Variables from the Genie API
+5. Publish All Customizations.
+6. Open the Agent in Copilot Studio
+7. Publish the Agent
