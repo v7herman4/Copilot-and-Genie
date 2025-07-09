@@ -35,8 +35,8 @@ Note the following items from the Genie API setup as they’ll be required for t
 7. Publish the Agent
 
 ## Collaborators
-Many people contributed to this solution! A big thanks to the team for their efforts.
-Melissa Lacefield / [@melilace](https://github.com/melilace)
-Josh Hays
-Johnny Harbieh
+Many people contributed to this solution! A big thanks to the team for their efforts. <br>
+Melissa Lacefield / [@melilace](https://github.com/melilace) <br>
+Josh Hays <br>
+Johnny Harbieh <br>
 Valter Herman / [@v7herman4](https://github.com/v7herman4)
