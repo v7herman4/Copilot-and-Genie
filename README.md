@@ -43,6 +43,8 @@ You must update the Agent Flow to ensure the bearer token is being retrieved fro
    - Validate/select the correct Azure Key Vault.
    - Validate/select the correct secret.
 
+![Figure 0‑1](documentation/image/dbxgenieagent-img-0.png)
+
 3. Save and publish the Agent Flow.
 
 ## Collaborators
