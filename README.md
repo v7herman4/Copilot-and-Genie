@@ -47,6 +47,11 @@ You must update the Agent Flow to ensure the bearer token is being retrieved fro
 
 3. Save and publish the Agent Flow.
 
+## FAQs / Support
+Access error on Key Vault: Go to your Key Vault, Settings -> Networking . Make sure "Allow public access from all networks" is selected.
+Error making HTTP call: make sure the GenieWarehouse is started: go to your databricks workspace -> Compute -> SQL warehouses -> GenieWarehouse (click Play button on the right)
+Error making HTTP call with authentication errors: ensure your developer token still exists: go to your databricks workspace -> Profile icon -> Settigns -> Developer -> Access tokens
+
 ## Collaborators
 
 Many people contributed to this solution! A big thanks to the team for their efforts.
